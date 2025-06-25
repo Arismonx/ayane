@@ -11,5 +11,4 @@
 
 ## Installation
 To install the Ayane CLI, you need to have [Go](https://go.dev/doc/install) (version 1.18 or higher) installed on your system. 
-Download Ayane CLI v1.0.0
-[download](https://github.com/Arismonx/ayane/releases/tag/v1.0.0)
+[download](https://github.com/Arismonx/ayane/releases/tag/v1.0.0) Ayane CLI v1.0.0
