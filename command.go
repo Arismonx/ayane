@@ -62,6 +62,7 @@ func (cf *CmdFlags) Execute(aya *Ayane) {
 		aya.print()
 	case cf.Help:
 		AllCommand()
+		HowtoUseCommand()
 	case cf.Ayane:
 		Display()
 	default:
@@ -83,11 +84,11 @@ func AllCommand() {
 
 func HowtoUseCommand() {
 	fmt.Printf("How to use command: \n")
-	fmt.Printf("  %-10s %s\n", "-add", "-add ")
-	fmt.Printf("  %-10s %s\n", "-edit", "Edit a tody by index & specify task")
-	fmt.Printf("  %-10s %s\n", "-del", "Specify a todo by indec to delete")
-	fmt.Printf("  %-10s %s\n", "-list", "List all todo")
-	fmt.Printf("  %-10s %s\n", "-mark", "Specify a todo by indec to checks")
-	fmt.Printf("  %-10s %s\n", "-help", "All Command")
-	fmt.Printf("  %-10s %s\n", "-ayane", "home page")
+	fmt.Printf("  %-10s %s\n", "add", `-add "Your Task"`)
+	fmt.Printf("  %-10s %s\n", "edit", `-edit id:"Edit Task" (-edit 1:"Go Run")`)
+	fmt.Printf("  %-10s %s\n", "del", "-del id (-del 1)")
+	fmt.Printf("  %-10s %s\n", "list", "-list")
+	fmt.Printf("  %-10s %s\n", "mark", "-mark id (-mark 1)")
+	fmt.Printf("  %-10s %s\n", "help", "-help")
+	fmt.Printf("  %-10s %s\n", "ayane", "-ayane")
 }
