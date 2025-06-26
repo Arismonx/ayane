@@ -159,7 +159,7 @@ All Command:
 ]
 ```
 ## Contributing
-Contributions are welcome! If you find a bug or have a feature request, please open an issue on the GitHub repository. If you'd like to contribute code, feel free to fork the repository and submit a pull request.
+Contributions are welcome! If you find a bug or have a feature request, please open an issue on the GitHub repository. If you'd like to contribute code, feel free to fork the repository and submit a [pull request](https://github.com/Arismonx/ayane/pulls).
   
 
   
