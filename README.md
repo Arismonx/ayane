@@ -9,7 +9,7 @@
           /_/  |_|\__, / \__,_//_/ /_/ \___/ 
                  /____/                      
           
-          => Ayane CLI Todo Application v1.0.0 
+          => Ayane CLI Todo Application v1.0.1 
 
 
 ```
@@ -27,7 +27,7 @@
 Used for creating [table](https://github.com/aquasecurity/table)
 ## Installation
 To install the Ayane CLI, you need to have [Go](https://go.dev/doc/install) (version 1.18 or higher) installed on your system. 
-> [download](https://github.com/Arismonx/ayane/releases/tag/v1.0.0) Ayane CLI v1.0.0
+> [download](https://github.com/Arismonx/ayane/releases/tag/v1.0.1) Ayane CLI v1.0.1
 
 ## Usage
 Suppose you downloaded the `ayane` file and stored it in your Downloads folder.
@@ -73,7 +73,7 @@ and Run command for MacOS
           /_/  |_|\__, / \__,_//_/ /_/ \___/ 
                  /____/                      
           
-          => Ayane CLI Todo Application v1.0.0 
+          => Ayane CLI Todo Application v1.0.1 
 ```
 > The program is ready to work. :white_check_mark:
 
