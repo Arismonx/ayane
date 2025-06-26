@@ -78,7 +78,7 @@ and Run command for MacOS
 > The program is ready to work. :white_check_mark:
 
 > [!IMPORTANT]
-> Don't forget to read the [user manual]()  >W<.
+> Don't forget to read the [user manual](https://github.com/Arismonx/ayane/tree/main?tab=readme-ov-file#user-manual)  >W<.
 
 ## User manual
 Here are the commands you can use.
